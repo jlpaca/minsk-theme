@@ -1,4 +1,4 @@
-;;; minsk-theme.el --- Minsk, a theme in deep muted greens
+;;; minsk-theme.el --- Minsk, a theme in deep muted greens -*- lexical-binding: t; -*-
 
 ;; Author: Jean Lo <jlpaca@users.noreply.github.com>
 ;; Version: 0.1
