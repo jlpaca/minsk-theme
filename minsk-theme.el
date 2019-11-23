@@ -9,9 +9,9 @@
 ;;; Commentary:
 
 ;; A low-ish contrast theme on a restricted palette.  It tries to be
-;; almost-monochrome and most of the time prefers highlighting by font
-;; style over by colour, but isn't excessively strict about wiggling a
-;; little in hue-space.
+;; almost-monochrome, and most of the time prefers highlighting by
+;; font style over by colour, though it isn't excessively strict about
+;; wiggling a little in hue-space.
 
 ;;; Code:
 
@@ -36,7 +36,7 @@
 
       ;; monochromes
       (gr-0 "#bcbcbc")
-      (gr-1 "#909090")
+      ;; (gr-1 "#909090")
       (gr-2 "#535353")
 
       ;; highlights - neutral
@@ -45,33 +45,34 @@
 
       ;; highlights - red
       (h-ra "#fe2848")
-      (h-rb "#ff9cad")
+      ;; (h-rb "#ff9cad")
       (h-rc "#552629")
 
       ;; highlights - green
       (h-ga "#abe500")
-      (h-gb "#e8f7d5")
-      (h-gb "#3c5122")
+      ;; (h-gb "#e8f7d5")
+      ;; (h-gc "#3c5122")
 
       ;; highlights - yellow
       (h-ya "#feae00")
-      (h-yb "#fbeabf")
+      ;; (h-yb "#fbeabf")
       (h-yc "#553e21")
 
       ;; highlights - blue
-      (h-ba "#00c9d9")
-      (h-bb "#93e8f3")
-      (h-bc "#194b4c")
+      ;; (h-ba "#00c9d9")
+      ;; (h-bb "#93e8f3")
+      ;; (h-bc "#194b4c")
 
       ;; highlights - magenta
-      (h-ma "#ffc5eb")
-      (h-mb "#fe7bd9")
-      (h-mc "#54324e")
+      ;; (h-ma "#ffc5eb")
+      ;; (h-mb "#fe7bd9")
+      ;; (h-mc "#54324e")
 
       ;; highlights - cyan
       (h-ca "#d6fff5")
-      (h-cb "#00ffbb")
-      (h-cc "#195a40"))
+      ;; (h-cb "#00ffbb")
+      ;; (h-cc "#195a40"))
+      )
 
 
   (custom-theme-set-faces
