@@ -116,7 +116,7 @@
    `(font-lock-builtin-face       ((t (:foreground ,fg-1))))
    `(font-lock-comment-face       ((t (:foreground ,fg-2))))
    `(font-lock-constant-face      ((t (:foreground ,h-ra))))
-   `(Font-lock-doc-face           ((t (:foreground ,fg-2 :slant italic))))
+   `(font-lock-doc-face           ((t (:foreground ,fg-2 :slant italic))))
    `(font-lock-function-name-face ((t (:foreground ,w))))
    `(font-lock-keyword-face       ((t (:foreground ,fg-1 :bold t))))
    `(font-lock-string-face        ((t (:foreground ,h-nb))))
@@ -148,9 +148,19 @@
    `(whitespace-space       ((t (:foreground ,gr-2 :bold t))))
    `(whitespace-trailing    ((t (:foreground ,h-ra :background ,h-rc :bold t))))
 
-   ;; widgets
+    ;; widgets
    `(widget-field              ((t (:background ,bg-1))))
-   `(widget-single-line-field  ((t (:inherit widget-field)))) ))
+   `(widget-single-line-field  ((t (:inherit widget-field))))
+
+   ;; helm
+   `(helm-candidate-number        ((t (:foreground ,bg-0 :background ,fg-0))))
+   `(helm-header-line-left-margin ((t (:foreground ,bg-0 :background ,h-ya))))
+   `(helm-match                   ((t (:foreground ,h-ya))))
+   `(helm-prefarg                 ((t (:foreground ,h-ga))))
+   `(helm-separator               ((t (:foreground ,h-ra))))
+   `(helm-selection               ((t (:background ,bg-2))))
+   `(helm-source-header           ((t (:foreground ,bg-0 :background ,fg-0))))
+   `(helm-visible-mark            ((t (:foreground ,bg-0 :background ,h-ga)))) ))
 
 ;;;###autoload
 (when (and (boundp 'custom-theme-load-path) load-file-name)
