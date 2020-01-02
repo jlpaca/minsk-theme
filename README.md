@@ -20,6 +20,14 @@ be most welcome.
 
 ## Installation
 
+#### From [MELPA](https://melpa.org)
+
+Install the [package](https://melpa.org/#/minsk-theme):
+
+```
+M-x package-install RET minsk-theme RET
+```
+
 #### With `package.el`
 ```
 M-x package-install-file minsk-theme.el
