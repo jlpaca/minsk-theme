@@ -1,0 +1,43 @@
+--- st/config.def.h	2020-03-07 14:37:17.754693000 +0000
++++ st-minsktheme/config.def.h	2020-03-07 14:19:30.829959000 +0000
+@@ -85,24 +85,24 @@ unsigned int tabspaces = 8;
+ /* Terminal colors (16 first used in escape sequence) */
+ static const char *colorname[] = {
+ 	/* 8 normal colors */
+-	"black",
+-	"red3",
+-	"green3",
+-	"yellow3",
+-	"blue2",
+-	"magenta3",
+-	"cyan3",
+-	"gray90",
++	"#0f1414", /* b    (black)   */
++	"#fe2848", /* h-ra (red)     */
++	"#abe500", /* h-ga (green)   */
++	"#feae00", /* h-ya (yellow)  */
++	"#00c9d9", /* h-ba (blue)    */
++	"#ffc5eb", /* h-ma (magenta) */
++	"#d6fff5", /* h-ca (cyan)    */
++	"#98a883", /* fg-1 (white)   */
+ 
+ 	/* 8 bright colors */
+-	"gray50",
+-	"red",
+-	"green",
+-	"yellow",
+-	"#5c5cff",
+-	"magenta",
+-	"cyan",
+-	"white",
++	"#1d2826", /* bg-1 */
++	"#ff9cad", /* h-rb */
++	"#e8f7d5", /* h-gb */
++	"#fbeabf", /* h-yb */
++	"#93e8f3", /* h-bb */
++	"#fe7bd9", /* h-mb */
++	"#00ffbb", /* h-cb */
++	"#cdd2a7", /* fg-0 */
+ 
+ 	[255] = 0,
+ 
