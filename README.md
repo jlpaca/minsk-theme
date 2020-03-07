@@ -21,5 +21,7 @@ The theme has been implemented as configuration files for the
 following applications:
 
 * [emacs](https://github.com/jlpaca/minsk-theme/tree/emacs/theme/emacs)
+* [dwm](https://github.com/jlpaca/minsk-theme/tree/emacs/theme/suckless) and
+  [st](https://github.com/jlpaca/minsk-theme/tree/emacs/theme/suckless)
 
 See the individual directories under `theme/` for installation instructions.
