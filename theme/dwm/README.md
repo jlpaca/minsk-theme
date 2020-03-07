@@ -1,4 +1,4 @@
-[minsk-dwm](https://github.com/jlpaca/minsk-theme/blob/suckless/theme/dwm/img/banner-dwm.png?raw=true)
+![minsk-dwm](https://github.com/jlpaca/minsk-theme/blob/suckless/theme/dwm/img/banner-dwm.png?raw=true)
 
 > a theme in deep muted greens. for [dwm](https://dwm.suckless.org).
 
