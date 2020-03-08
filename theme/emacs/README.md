@@ -1,4 +1,4 @@
-![minsk-emacs](https://github.com/jlpaca/minsk-theme/blob/img/banner-emacs.png?raw=true)
+![minsk-emacs](https://github.com/jlpaca/minsk-theme/blob/master/img/banner-emacs.png?raw=true)
 
 > a theme in deep muted greens. for [emacs](https://www.gnu.org/software/emacs/).
 

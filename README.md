@@ -20,8 +20,8 @@ hue-space.
 The theme has been implemented as configuration files for the
 following applications:
 
-* [emacs](https://github.com/jlpaca/minsk-theme/tree/emacs/theme/emacs)
-* [dwm](https://github.com/jlpaca/minsk-theme/tree/emacs/theme/suckless) and
-  [st](https://github.com/jlpaca/minsk-theme/tree/emacs/theme/suckless)
+* [emacs](https://github.com/jlpaca/minsk-theme/tree/master/theme/emacs)
+* [dwm](https://github.com/jlpaca/minsk-theme/tree/master/theme/dwm)
+* [st](https://github.com/jlpaca/minsk-theme/tree/master/theme/st)
 
 See the individual directories under `theme/` for installation instructions.

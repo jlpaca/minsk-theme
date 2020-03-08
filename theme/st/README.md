@@ -1,4 +1,4 @@
-![minsk-st](https://github.com/jlpaca/minsk-theme/blob/img/banner-st.png?raw=true)
+![minsk-st](https://github.com/jlpaca/minsk-theme/blob/master/img/banner-st.png?raw=true)
 
 > a theme in deep muted greens. for [st](https://st.suckless.org).
 
