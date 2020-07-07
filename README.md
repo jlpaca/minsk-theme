@@ -23,5 +23,6 @@ following applications:
 * [emacs](https://github.com/jlpaca/minsk-theme/tree/master/theme/emacs)
 * [dwm](https://github.com/jlpaca/minsk-theme/tree/master/theme/dwm)
 * [st](https://github.com/jlpaca/minsk-theme/tree/master/theme/st)
+* [xterm](https://github.com/jlpaca/minsk-theme/tree/master/theme/x11)
 
 See the individual directories under `theme/` for installation instructions.
