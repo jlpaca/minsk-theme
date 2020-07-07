@@ -1,0 +1,41 @@
+
+
+! FOREGROUND / BACKGROUND
+*foreground: #98A883
+*background: #0F1414
+
+!BLACK
+*color0:  #0F1414
+*color8:  #1D2826
+
+! RED
+*color1:  #FE2848
+*color9:  #FF9cad
+
+! GREEN
+*color2:  #ABE500
+*color10: #E8F7D5
+
+! YELLOW
+*color3:  #FEAE00
+*color11: #FBEABF
+
+! BLUE
+*color4:  #00C9D9
+*color12: #93E8F3
+
+! MAGENTA
+*color5:  #FE7BD9
+*color13: #FFC5EB
+
+! CYAN
+*color6:  #00FFBB
+*color14: #D6FFF5
+
+! WHITE
+*color7:  #78906C
+*color15: #FEFEE0
+
+! BOLD CHARACTERS
+xterm*colorBD: #CDD2A7
+xterm*colorBDMode: true
